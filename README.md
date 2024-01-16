@@ -1,1 +1,2 @@
 # ConflictoGit
+archivo de rama
